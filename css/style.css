@@ -92,16 +92,19 @@ iframe {
   gap: 0.8px;
   font-size: 0.8rem;
   list-style: none;
+  flex-wrap: nowarp;
 }
 .main-nav a {
   color: rgb(233, 236, 12);
   background-color: rgb(250, 127, 27);
   padding: 0.5rem;
+  white-space: nowrap;
 }
 .main-nav a:hover {
   color: rgb(255, 33, 17);
   background-color: #f5f829;
   padding: 0.5rem;
+  white-space: nowarp;
 }
 
 /* ヘッダーカバー画像
