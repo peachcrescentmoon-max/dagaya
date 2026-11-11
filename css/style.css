@@ -89,7 +89,7 @@ iframe {
 .main-nav {
   display: flex;
   justify-content: center;
-  gap: 1px;
+  gap: 0.8px;
   font-size: 1rem;
   list-style: none;
 }
