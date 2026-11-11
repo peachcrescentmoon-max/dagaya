@@ -90,18 +90,18 @@ iframe {
   display: flex;
   justify-content: center;
   gap: 1px;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   list-style: none;
 }
 .main-nav a {
   color: rgb(233, 236, 12);
   background-color: rgb(250, 127, 27);
-  padding: 0.5rem;
+  padding: 0.7rem;
 }
 .main-nav a:hover {
   color: rgb(255, 33, 17);
   background-color: #f5f829;
-  padding: 0.5rem;
+  padding: 0.7rem;
 }
 
 /* ヘッダーカバー画像
