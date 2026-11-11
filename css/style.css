@@ -90,7 +90,7 @@ iframe {
   display: flex;
   justify-content: center;
   gap: 0.8px;
-  font-size: 1rem;
+  font-size: 0.8rem;
   list-style: none;
 }
 .main-nav a {
